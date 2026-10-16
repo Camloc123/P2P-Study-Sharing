@@ -1,0 +1,13 @@
+# Bytecode đã biên dịch (không cần đưa lên Git)
+bin/
+*.class
+
+# File tải về khi test truyền P2P
+downloads/*
+!downloads/.gitkeep
+
+# File tạm IDE
+.idea/
+.vscode/
+*.log
+nbproject/private/
